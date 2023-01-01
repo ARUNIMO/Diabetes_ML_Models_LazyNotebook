@@ -19,3 +19,14 @@ Normal: Lower than 80
 Stage 1 hypertension: 80-89
 Stage 2 hypertension: 90 or more
 Hypertensive crisis: 120 or more.
+
+
+Triceps skin fold thickness (mm)
+Higher TSF thickness was associated with lower all-cause and cardiovascular mortality, independent of BMI and MAMC. Our study revealed that the TSF thickness may be a convenient and credible indicator to predict mortality, especially in those with severe cardiovascular diseases.
+
+the average TSF thickness was 18.7 ± 8.5 mm.
+
+Women average TSF thickness 23.6 ± 7.5 mm ,women have much higher TSF thickness
+Men average TSF thickness 14.3 ± 6.8 mm
+
+insulin is a hormone that regulates the level of sugar (glucose) in the blood and that is produced by the beta cells of the islets of Langerhans in the pancreas. Insulin is secreted when the level of blood glucose rises—as after a meal.
